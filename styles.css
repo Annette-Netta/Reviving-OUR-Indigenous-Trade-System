@@ -1,0 +1,74 @@
+/* Website Styles */
+*{
+    font-size: 100%;
+}
+
+body{
+    background-color: moccasin;
+    color: darkslateblue;  
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size: 14px;
+}
+
+h1{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;         
+    color: rgb(110, 13, 13);
+    font-size: 36px;
+}
+
+h2{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;         
+    color: rgb(110, 13, 13);
+    font-size: 24px;
+}
+
+h3{
+    color: rgb(110, 13, 13);
+    font-size: 18px;
+}
+
+h4{
+    color: black;
+}
+
+h1, h2, h3 {
+    font-weight: 500;
+    font-style: italic;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    text-align: center;
+}
+
+header h1{
+    text-align: center;
+}
+
+ul li {
+    color: darkolivegreen;
+}
+
+ol li {
+    color: darkgreen;
+}
+
+a {
+    color: crimson;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+figure figcaption p {
+    line-height: 0.5;
+}
